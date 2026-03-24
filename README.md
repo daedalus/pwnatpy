@@ -93,7 +93,3 @@ ruff check src/ tests/
 # type check
 mypy src/
 ```
-
-## Version
-
-v0.1.0.1
